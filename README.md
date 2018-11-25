@@ -1,7 +1,8 @@
 # docker-sample-pj
 
 ## imageの作成
-`$ docker build -t hello-world .`
+$ docker build -t hello-world .
+
 Issueにlog記載
 
 ## ECSにpush
