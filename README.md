@@ -1,5 +1,7 @@
 # docker-sample-pj
 
+参考：https://docs.aws.amazon.com/ja_jp/AmazonECS/latest/developerguide/docker-basics.html
+
 ## imageの作成
 $ docker build -t hello-world .
 
